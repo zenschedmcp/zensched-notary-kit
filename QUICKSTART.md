@@ -61,7 +61,7 @@ Paste `SKILL.md` into the AI as standing instructions (Claude Desktop: a Project
 
 > We're Lakeside Mobile Notary in Kirkland, Washington, Pacific time. It's just me, Dana Reyes, dana@example.com, 425-555-0100. Set me up.
 
-The AI saves your settings, invites **you** to ZenSched as a worker ($0.25, once; you are the notary on the phone), and calls `form_create` once (free) to build the Signing Completion Record you fill in after each signing: outcome, documents notarized, ID type (type only), scan-backs, tracking number, a photo of the drop receipt, and notes. No signature pad, no ID numbers. It stores the form id so every signing gets it. Install the app from the invitation email ([Android](https://play.google.com/store/apps/details?id=com.zensched.app) / [iOS TestFlight](https://testflight.apple.com/join/Wp51m5Yq)).
+The AI saves your settings, invites **you** to ZenSched as a worker ($0.25, once; you are the notary on the phone), and calls `form_create` once (free) to build the Signing Completion Record you fill in after each signing: outcome, documents notarized, ID type (type only), scan-backs, tracking number, a photo of the drop receipt, and notes. No signature pad, no ID numbers. It stores the form id so every signing gets it. Install the app from the invitation email ([Android](https://play.google.com/store/apps/details?id=com.zensched.app) / [iOS App Store](https://apps.apple.com/us/app/zensched/id6800081657)).
 
 Optional but recommended: "Allow check-in 20 minutes early and set the radius to 150 m." Notaries arrive early and often park far from a hospital or office entrance.
 

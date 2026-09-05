@@ -173,7 +173,7 @@ Subs are paid per signing, not by the hour. Each sub has a split (`$90 flat` or 
 ## Mobile app for notaries
 
 - **Android:** [Google Play](https://play.google.com/store/apps/details?id=com.zensched.app)
-- **iOS:** [TestFlight](https://testflight.apple.com/join/Wp51m5Yq)
+- **iOS:** [App Store](https://apps.apple.com/us/app/zensched/id6800081657)
 
 In solo mode you invite yourself; the email arrives at your own address, you install the app, and your signings appear as they are booked. Each one shows the address and time; you check in on arrival (GPS-verified), check out when you leave, and fill in the Signing Completion Record, including a photo of the FedEx/UPS receipt once you have dropped the package. Subs get the same email when you add them.
 
